@@ -64,7 +64,7 @@ Before starting, ensure you have the following installed:
 - MongoDB
 - Python Libraries:
 ```python
-    ifrom pymongo import MongoClient
+    from pymongo import MongoClient
     from pprint import pprint
     import pandas as pd
 ```
